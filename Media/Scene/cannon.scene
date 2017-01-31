@@ -1,0 +1,47 @@
+<scene export_time="1429734051.3807726" previous_export_time="1429734005.653131" formatVersion="1.0.1" exported_by="scotse01" >
+  <nodes >
+    <node name="Cylinder.001" >
+      <position z="12.197825" x="-1.833180" y="2.514963" />
+      <rotation qy="-0.297185" qw="0.247360" qx="0.867423" qz="0.313165" />
+      <scale z="3.451947" x="3.408603" y="0.285937" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity lock_trans_z="False" lock_rot_y="False" actor="False" lock_rot_z="False" name="Cylinder.001" lock_trans_y="False" damping_trans="0.03999999910593033" friction_y="1.0" damping_rot="0.10000000149011612" lock_rot_x="False" friction_x="1.0" velocity_max="0.0" anisotropic_friction="False" lock_trans_x="False" physics_type="STATIC" meshFile="Cylinder.001.mesh" ghost="False" mass="1.0" mass_radius="1.0" velocity_min="0.0" friction_z="1.0" inertia_tensor="0.4000000059604645" />
+    </node>
+    <node name="Cylinder" >
+      <position z="-5.334190" x="-2.141204" y="1.194719" />
+      <rotation qy="0.264661" qw="0.623499" qx="-0.684032" qz="-0.270745" />
+      <scale z="2.904800" x="2.866233" y="17.698566" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity lock_trans_z="False" lock_rot_y="False" actor="False" lock_rot_z="False" name="Cylinder" lock_trans_y="False" damping_trans="0.03999999910593033" friction_y="1.0" damping_rot="0.10000000149011612" lock_rot_x="False" friction_x="1.0" velocity_max="0.0" anisotropic_friction="False" lock_trans_x="False" physics_type="STATIC" meshFile="Cylinder.mesh" ghost="False" mass="1.0" mass_radius="1.0" velocity_min="0.0" friction_z="1.0" inertia_tensor="0.4000000059604645" />
+    </node>
+    <node name="Torus.000" >
+      <position z="-6.116225" x="4.423788" y="-1.684295" />
+      <rotation qy="0.000000" qw="0.705366" qx="0.000000" qz="-0.708843" />
+      <scale z="5.971963" x="5.971963" y="5.971963" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity lock_trans_z="False" lock_rot_y="False" actor="False" lock_rot_z="False" name="Torus.003" lock_trans_y="False" damping_trans="0.03999999910593033" friction_y="1.0" damping_rot="0.10000000149011612" lock_rot_x="False" friction_x="1.0" velocity_max="0.0" anisotropic_friction="False" lock_trans_x="False" physics_type="STATIC" meshFile="Torus.003.mesh" ghost="False" mass="1.0" mass_radius="1.0" velocity_min="0.0" friction_z="1.0" inertia_tensor="0.4000000059604645" />
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="/Accounts/turing/students/s17/scotse01/cs391/CannonGame/Media/Scene/Material.008.material" />
+    </item>
+    <item type="material" >
+      <file name="/Accounts/turing/students/s17/scotse01/cs391/CannonGame/Media/Scene/Material.002.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourBackground g="0.05087608844041824" r="0.05087608844041824" b="0.05087608844041824" />
+    <colourAmbient g="0.0" r="0.0" b="0.0" />
+    <colourDiffuse g="0.05087608844041824" r="0.05087608844041824" b="0.05087608844041824" />
+  </environment>
+</scene>

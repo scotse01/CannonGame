@@ -1,0 +1,39 @@
+<GUILayout version="4">
+	<Window type="DefaultWindow" name="root">
+		<Window type="TaharezLook/StaticText" name="Rotation">
+			<Property name="Position" value="{{0,0},{0.05,0}}"/>
+			<Property name="Size" value="{{0.16,0},{0.05,0}}"/>
+			<Property name="Text" value=""/>
+		</Window>
+		<Window type="TaharezLook/StaticText" name="Elevation">
+			<Property name="Position" value="{{0.16,0},{0.05,0}}"/>
+			<Property name="Size" value="{{0.17,0},{0.05,0}}"/>
+			<Property name="Text" value=""/>
+		</Window>
+		<Window type="TaharezLook/StaticText" name="Shots">
+			<Property name="Position" value="{{0.33,0},{0.05,0}}"/>
+			<Property name="Size" value="{{0.16,0},{0.05,0}}"/>
+			<Property name="Text" value=""/>
+		</Window>
+		<Window type="TaharezLook/StaticText" name="Hits">
+			<Property name="Position" value="{{0.49,0},{0.05,0}}"/>
+			<Property name="Size" value="{{0.17,0},{0.05,0}}"/>
+			<Property name="Text" value=""/>
+		</Window>
+		<Window type="TaharezLook/StaticText" name="Score">
+			<Property name="Position" value="{{0.66,0},{0.05,0}}"/>
+			<Property name="Size" value="{{0.16,0},{0.05,0}}"/>
+			<Property name="Text" value=""/>
+		</Window>
+		<Window type="TaharezLook/StaticText" name="HighScore">
+			<Property name="Position" value="{{0.82,0},{0.05,0}}"/>
+			<Property name="Size" value="{{0.17,0},{0.05,0}}"/>
+			<Property name="Text" value=""/>
+		</Window>
+		<Window type="TaharezLook/StaticText" name="Controls">
+			<Property name="Position" value="{{0,0},{0,0}}"/>
+			<Property name="Size" value="{{1,0},{0.05,0}}"/>
+			<Property name="Text" value="Controls: W to elevate cannon, S to depress cannon, A to rotate cannon left, D to rotate cannon right, Space to fire!, R to restart"/>
+		</Window>
+	</Window>
+</GUILayout>
